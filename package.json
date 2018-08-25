@@ -1,0 +1,23 @@
+{
+  "name": "@konojunya/virtual-dom-sample",
+  "version": "1.0.0",
+  "description": "[CODE SANDBOX] 純粋にvirtual-domに限定したライブラリでVDOMの理解を少し深める",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/konojunya/virtual-dom-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/virtual-dom-sample/issues"
+  },
+  "homepage": "https://github.com/konojunya/virtual-dom-sample#readme",
+  "dependencies": {
+    "virtual-dom": "^2.1.1"
+  }
+}
